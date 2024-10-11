@@ -13,7 +13,7 @@
 
 ## System Architecture
 
-StudyNotion follows a client-server architecture, consisting of three main components:
+LearnSphere follows a client-server architecture, consisting of three main components:
 
 1. **Front-end**: Built using ReactJS for dynamic and responsive user interfaces.
 2. **Back-end**: Built using Node.js and Express.js for handling API requests and processing business logic.
@@ -39,11 +39,6 @@ The front end provides students, instructors, and admin users with intuitive pag
 - **Insights**: Detailed views on metrics such as views, clicks, etc.
 - **Course Management**: Allows instructors to create, update, and delete courses and manage pricing.
 - **Profile Management**: View and edit account details.
-
-### For Admin (Future Scope)
-- **Dashboard**: Platform overview including courses, instructors, and students.
-- **Insights**: Platform-wide metrics (e.g., users, courses, revenue).
-- **Instructor Management**: Admin can manage instructor accounts and courses.
 
 ### Front-end Technologies
 - **React.js**: Framework for building user interfaces.
