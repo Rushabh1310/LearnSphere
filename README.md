@@ -23,7 +23,7 @@ LearnSphere follows a client-server architecture, consisting of three main compo
 
 ## Front-end
 
-The front end provides students, instructors, and admin users with intuitive pages to interact with the platform.
+The front end provides students and instructors with intuitive pages to interact with the platform.
 
 ### For Students
 - **Homepage**: Brief platform introduction and course list.
